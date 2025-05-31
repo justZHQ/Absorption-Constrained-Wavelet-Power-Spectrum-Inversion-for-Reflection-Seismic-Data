@@ -3,9 +3,9 @@ This is the repository for the paper [Absorption-Constrained Wavelet Power Spect
 The latex citation format of the article is as follows:\
 @ARTICLE{10374345,\
   author={Zhao, Haoqi and Gao, Jinghuai and Tian, Yajun and Zhao, Liang and Meng, Chuangji},\
-  journal={IEEE Transactions on Geoscience and Remote Sensing},\ 
-  title={Absorption-Constrained Wavelet Power Spectrum Inversion for Enhancing Resolution of Nonstationary Seismic Data},\ 
-  year={2024},\
+  journal={IEEE Transactions on Geoscience and Remote Sensing},   
+  title={Absorption-Constrained Wavelet Power Spectrum Inversion for Enhancing Resolution of Nonstationary Seismic Data},  
+  year={2024},  
   volume={62},\
   number={},\
   pages={1-15},\
